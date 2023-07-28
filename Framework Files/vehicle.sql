@@ -211,5 +211,6 @@ INSERT INTO `vehicles`(`name`, `model`, `price`, `category`) VALUES
 	("Volvo XC90 T8","xc90",425000,"volvo"),
 	("W-Motors Fenyr Supersport","wmfenyr",220000,"wmotors"),
 	("W-Motors Lykan HyperSport","lykan",185000,"wmotors")
+	("W-Motors wykan hlcagher  ","lykan",200000,"wmotors") 
 	
 ;
